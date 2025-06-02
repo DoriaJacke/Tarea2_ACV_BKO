@@ -1,0 +1,11 @@
+multChoice;Que palabra clave se usa para definir una clase en Java?;recordar;1;2;class::define::struct::object
+trueFalse;El metodo main es el punto de entrada de una aplicacion Java.;recordar;1;1;Verdadero::Falso
+multChoice;Por que se recomienda usar encapsulamiento en POO?;entender;2;2;Para imprimir datos::Para proteger atributos::Para heredar metodos::Para compilar mas rapido
+trueFalse;Una interfaz puede contener metodos implementados en Java.;entender;2;2;Verdadero::Falso
+multChoice;Cual instruccion crea correctamente un objeto de la clase Perro?;aplicar;3;3;Perro.crear()::Perro perro = Perro()::Perro perro = new Perro()::crear Perro perro
+trueFalse;Es posible aplicar polimorfismo con metodos sobreescritos.;aplicar;2;1;Verdadero::Falso
+multChoice;Que diferencia hay entre una clase abstracta y una interfaz?;analizar;4;2;La interfaz se instancia::La clase abstracta puede tener codigo::Ambas son iguales::La interfaz no tiene metodos
+trueFalse;Analizar la jerarquia de clases ayuda a identificar errores de diseno.;analizar;3;1;Verdadero::Falso
+multChoice;Cual de estas afirmaciones representa una buena evaluacion del uso de herencia?;evaluar;5;3;Reduce el acoplamiento::Duplica el codigo::Facilita la lectura::Obliga a reescribir todo
+multChoice;Cual seria un buen nombre para una clase que representa una factura en Java?;crear;6;2;Factura::ImprimirFactura::FacturaUtils::factura_programa
+multChoice;prueba;crear;6;2;a::b::c::d::e::f::g::h::i::j
